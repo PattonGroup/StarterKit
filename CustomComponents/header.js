@@ -10,7 +10,7 @@ const headerTemplate = document.createElement('template');
           <div class="collapse d-flex flex-row-reverse navbar-collapse" >
             <div class="navbar-nav px-5" id="navbarNavAltMarkup">
               <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-              <a class="nav-link" href="lessons.html">Lessons</a>
+              <a class="nav-link" href="lessons">Lessons</a>
               <a class="nav-link" href="showcase.html">Showcase</a>
               <a class="nav-link" href="about.html">About</a>
             </div>
