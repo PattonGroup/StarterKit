@@ -14,8 +14,6 @@
   font-weight: 300;
   font-size: 1.1em;
   line-height: 1.45em;
-  margin-bottom: 15px;
-  margin-top: 30px;
   width: 70%;
   margin: 0 auto;
 }
@@ -148,9 +146,6 @@ li {
 .profile p {
   font-size: 1.2rem;
   font-weight: 500;
-}
-
-.profile p {
   opacity: 0;
   transition: 300ms opacity linear, 300ms transform ease-in-out;
 }
