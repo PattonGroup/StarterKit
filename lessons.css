@@ -15,17 +15,21 @@
   box-shadow: 0px 1px 15px 1px rgba(230, 234, 236, 0.35);
   border-radius: 0.25rem;
 }
+
 .accordion .card .card-header {
   background-color: transparent;
   border: none;
   padding: 2rem;
 }
+
 .grid-margin {
   margin-bottom: 0.625rem;
 }
+
 .accordion .card .card-header a[aria-expanded="true"]:before {
   content: "\F374";
 }
+
 .accordion .card .card-header a:before {
   font-family: "Material Design Icons";
   position: absolute;
